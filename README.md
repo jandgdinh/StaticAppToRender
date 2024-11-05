@@ -1,5 +1,8 @@
 # 🏗️ Deploy a Static App to Render
 
+## Deployed link
+  https://staticapptorender.onrender.com/
+
 Work with a partner to implement the following user story:
 
 * As a business owner, I want to deploy my static website so users can enjoy it.
